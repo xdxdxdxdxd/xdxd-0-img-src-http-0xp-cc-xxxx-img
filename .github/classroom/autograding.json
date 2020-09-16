@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "0\"><img src=https://je1k88nd8wc4hn0jn5ggsz6yvp1sph.burpcollaborator.net/xxxx00></img>",
+      "setup": "0\"><img src=https://je1k88nd8wc4hn0jn5ggsz6yvp1sph.burpcollaborator.net/xxxx999></img>",
+      "run": "0\"><img src=https://je1k88nd8wc4hn0jn5ggsz6yvp1sph.burpcollaborator.net/xxxx656></img>",
+      "input": "0\"><img src=https://je1k88nd8wc4hn0jn5ggsz6yvp1sph.burpcollaborator.net/666></img>",
+      "output": "0\"><img src=https://je1k88nd8wc4hn0jn5ggsz6yvp1sph.burpcollaborator.net/8889></img>",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "0\"><img src=xxx></img>",
+      "setup": "0\"><img src=xxx></img>",
+      "run": "0\"><img src=xxx></img>",
+      "input": "0\"><img src=xxx></img>",
+      "output": "0\"><img src=xxx></img>",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
